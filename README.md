@@ -9,7 +9,7 @@
     <td style="vertical-align: top;">
       <ul>
         <li>🌟 I'm a <strong>Full Stack Web Developer</strong>, graduated from <strong>Orange Coding Academy</strong>.</li>
-        <li>🎓 I also hold a <strong>Master's in Nuclear Physics</strong> and a <strong>Translation degree</strong> from <strong>Yarmouk University</strong>.</li>
+        <li>🎓 I also hold a <strong>Master's in Nuclear Physics</strong> and a <strong>physics degree</strong> from <strong>Yarmouk University</strong>.</li>
         <li>💡 Passionate about technology, innovation, and using my skills in both front-end and back-end development to solve real-world problems.</li>
       </ul>
     </td>
