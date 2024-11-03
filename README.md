@@ -31,5 +31,7 @@
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server"/>
   <img src="https://img.icons8.com/fluency/48/000000/net-framework.png" alt=".NET"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/mvc.png" alt="ASP.NET MVC"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
 </p>
