@@ -1,6 +1,8 @@
 # Lujain Alazzam
 
-## <span style="display:inline-block; animation: slideIn 3s ease-in-out;">Full Stack Web Developer | Translation Graduate</span>
+![Full Stack Web Developer](https://link-to-your-animated-gif.gif)
+
+## Translation Graduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lujain-alazzam-3549a61b0/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/lujain988)
@@ -43,18 +45,5 @@
 - **Email**: Lujainalazzam98@gmail.com
 
 ---
-
-<style>
-  @keyframes slideIn {
-    0% {
-      transform: translateX(-100%);
-      opacity: 0;
-    }
-    100% {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
-</style>
 
 Thanks for stopping by! Let's connect and collaborate on exciting projects! 😊
