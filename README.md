@@ -28,6 +28,8 @@
   <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="AngularJS"/>
+  <img src="https://img.icons8.com/fluency/48/000000/mvc.png" alt="MVC"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL Server"/>
   <img src="https://img.icons8.com/fluency/48/000000/net-framework.png" alt=".NET"/>
